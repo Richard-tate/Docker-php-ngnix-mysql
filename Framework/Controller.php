@@ -15,7 +15,6 @@ use Exception;
 
 class Controller
 {
-    protected Database $db;
     protected array $config;
 
     public function __construct()
