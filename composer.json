@@ -1,0 +1,14 @@
+{
+  "Name": "Richard-tate/Docker-php-ngnix-mysql",
+  "Description": "PHP, Nginx, MySQL Docker Template/Boilerplate",
+  "Version": "1.0.0",
+  "Author": "Richard Tate",
+  "License": "MIT",
+
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/",
+      "Framework\\": "Framework/"
+    }
+  }
+}
